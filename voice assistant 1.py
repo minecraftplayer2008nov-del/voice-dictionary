@@ -11,7 +11,7 @@ ArithmeticError
 import pyttsx3
 import wikipedia 
  
-# Initialize the recognizer and text-to-speech engine
+
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
